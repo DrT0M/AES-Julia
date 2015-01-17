@@ -1,7 +1,7 @@
 # AES-Julia
-AES in native Julia, along with file encryption/decryption utilities
+AES in native Julia - along with file encryption / decryption utilities
 
-AES.jl
+aes.jl
 ======
 Advanced Encryption Standard - NIST FIPS PUB 197.
 
